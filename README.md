@@ -1,3 +1,7 @@
+
+![Screenshot 2024-11-24 182009](https://github.com/user-attachments/assets/42f18d76-643b-4ea2-bf19-3f244b46172a)
+
+
 # Gender-Based Spending Analysis
 
 ## Overview
